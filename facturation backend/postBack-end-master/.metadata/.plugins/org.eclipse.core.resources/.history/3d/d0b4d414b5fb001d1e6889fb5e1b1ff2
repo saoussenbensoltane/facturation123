@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "cni.app.jwtSecret",
+  "type": "java.lang.String",
+  "description": "A description for 'cni.app.jwtSecret'"
+}]}
